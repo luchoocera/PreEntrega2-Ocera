@@ -1,0 +1,110 @@
+/* Fuentes*/
+
+
+/* Header */
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+/*Estilos Generales*/
+
+.main-title {
+    margin: 3rem;
+}
+
+.color-section {
+    background-color: grey;
+}
+
+
+/* Pagina Inicio */
+
+    /*Presentacion de estudio*/
+
+    #presentation{
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+    /*Imagenes de muestra*/
+    .home-sample-img{
+        width: 100%;
+        height: 100%;
+    }
+    /*Carousel*/
+    .cl-imgsize {
+        width: 100%;
+        height: 75%;
+    }
+
+/*Proyectos*/
+#proyects {
+    margin-top: 5rem;
+}
+
+#proyects img {
+    width: 18rem;
+    height: 10rem;
+}
+
+#proyects article div {
+    text-align: center;
+}
+.proyect {
+    
+    margin: 5rem 6rem;
+    
+}
+
+/*Servicios*/
+#services article {
+    margin: 2rem 0rem;
+}
+
+#services img {
+
+}
+
+
+/*Nosotros*/
+#about section {
+    margin:2rem 0rem;
+}
+
+p{
+    font-size: ;
+}
+
+/*Contacto*/
+label {
+    
+}
+
+#contact-studio article {
+    margin: 3rem 0rem;
+}
+/* Footer */
+
+#footer {
+    display: flex;
+    align-items: flex-end;
+    background-color: rgb(36, 36, 36);
+    color: grey;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+footer a{
+    color: white;
+}
+
